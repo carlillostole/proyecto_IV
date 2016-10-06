@@ -35,5 +35,5 @@ git branch
 #**Añadimos a 0.md el enlace a practica 0 y repositorio**
 ![curl](https://github.com/carlillostole/proyecto_IV/blob/hito0/imagenes/3.png)
 
-#**Objetivos primera semana**
+#**Añado objetivos primera semana**
 ![curl](https://github.com/carlillostole/proyecto_IV/blob/hito0/imagenes/2.png)
