@@ -3,7 +3,7 @@
 #**EJERCICIO 1**
 **Consultar en el catálogo de alguna tienda de informática el precio de un ordenador tipo servidor y calcular su coste de amortización a cuatro y siete años**
 
-En mi caso voy a realizar los cálculos sobre el pc ![PC All In One HP Envy 27-p001ns](http://store.hp.com/SpainStore/Merch/Product.aspx?id=P1J95EA&opt=ABE&sel=DTP).
+En mi caso voy a realizar los cálculos sobre el pc ![http://store.hp.com/SpainStore/Merch/Product.aspx?id=P1J95EA&opt=ABE&sel=DTP](PC All In One HP Envy 27-p001ns).
 
 
 Suponemos que el ordenador se compra a principios de año, tenemos que quitarle el IVA, que es el 21% del precio que pagamos del artículo. Dicho pc tiene un precio de 1999,00€, sin le quitamos el IVA se queda en 1652,06€.
