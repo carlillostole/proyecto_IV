@@ -20,6 +20,7 @@ Suponemos que el ordenador se compra a principios de año, tenemos que quitarle 
 **Usando las tablas de precios de servicios de alojamiento en Internet y de proveedores de servicios en la nube, Comparar el coste durante un año de un ordenador con un procesador estándar (escogerlo de forma que sea el mismo tipo de procesador en los dos vendedores) y con el resto de las características similares (tamaño de disco duro equivalente a transferencia de disco duro) en el caso de que la infraestructura comprada se usa sólo el 1% o el 10% del tiempo**
 
 **Servidor dedicado:** AMD Opteron™ 4274 HE, 8 Cores x 2.6 GHz(3.5 GHz Turbo Core), 16 GB DDR3 ECC, 1,500 GB (2 x 1,500 GB SATA).
+
 **Servidor cloud:**Servidor Cloud FLEX, vCores: 8 x 2,0 GHz, 16 GB RAM, 500 GB SSD.
 
 Uso de 1%:
@@ -41,9 +42,7 @@ Al ser un programa simple he creado el Hola Mundo!!.
 Instalo el programa CDE mediante el comando: sudo apt-get install cde
 
 A continuación ejecuto el programa PRUEBA.py: cde python PRUEBA.py
-
-
-![](fotooooo py).
+Y muestra por terminal: Hola Mundo!!
 
 
 #**EJERCICIO 4**
@@ -67,6 +66,7 @@ Intel(R) Core(TM) i7-3630QM CPU @ 2.40GHz
 **2.Instalar un hipervisor para gestionar máquinas virtuales, que más adelante se podrá usar en pruebas y ejercicios.**
 
 **1**
+
 Primero instalamos el paquete cpu-checker: sudo apt-get install cpu-checker
 Introducimos el comando kvm-ok y la respuesta es:
 
