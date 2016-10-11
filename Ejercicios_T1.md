@@ -8,6 +8,7 @@ Voy a realizar los cálculos sobre el pc All In One HP Envy 27-p001ns.
 Suponemos que el ordenador se compra a principios de año, tenemos que quitarle el IVA, que es el 21% del precio que pagamos del artículo. Dicho pc tiene un precio de 1999,00€, sin le quitamos el IVA se queda en 1652,06€.
 
 **Amortización a los 4 años**: Si consideramos que cada año tiene una amortización máxima de un 25%, el servidor nos costaria 1652,06 * 0.25 = 413.01 € cada año.
+
 **Amortización a los 7 años**: Si consideramos que se amortiza más los primeros años y menos los últimos años, por cada año tendriamos:
 - Primer año : 1652,06 * 0.25 = 413.01€
 - Segundo año : 1652,06 * 0.25 = 413.01€
