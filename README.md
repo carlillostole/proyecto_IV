@@ -16,9 +16,14 @@ Uso de un bot de Telegram para obtener información meteorológica de una ciudad
 -El bot estará online todo el tiempo.
 -Recopilará la información de forma autónoma.
 
-**Herramientas**
+**Herramientas y servicios**
 
+Servicios a usar durante el desarrollo y uso posterior del bot.
+
+-API de Telegram.
+-Lenguaje Python 3 y posiblemente algún otro lenguaje.
+
+-Servicio web Apache con mySQL para el almacenamiento de los datos.
+-API de bots de Telegram (basada en Python) para hacer el desarrollo.
 -Servicio en la nube (Azure o Amazon).
 -Entorno de pruebas C9.io
--API de Telegram.
--Lenguaje Python 3.
